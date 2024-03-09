@@ -20,9 +20,9 @@ ENV USE_CONNECTION_TOKEN=false
 #Set to a secret to have some measure of protection for vscode. Randomized if left blank
 ENV CONNECTION_TOKEN=
 # Project name. Typically the same as the project in the URL
-ENV PROJECT_NAME="doco"
+ENV PROJECT_NAME="palbuilder"
 # URL for the github/git location
-ENV PROJECT_URL="https://github.com/gurucomputing/doco"
+ENV PROJECT_URL="https://github.com/gurucomputing/palbuilder"
 # autostart the dev command on boot?
 ENV AUTOSTART="false"
 # command to run in the background on startup
