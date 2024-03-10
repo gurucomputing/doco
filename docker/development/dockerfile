@@ -22,7 +22,7 @@ ENV CONNECTION_TOKEN=
 # Project name. Typically the same as the project in the URL
 ENV PROJECT_NAME="gc-web-boilerplate"
 # URL for the github/git location
-ENV PROJECT_URL="https://github.com/gurucomputing/palbuilder"
+ENV PROJECT_URL="https://github.com/gurucomputing/gc-web-boilerplate"
 # autostart the dev command on boot?
 ENV AUTOSTART="false"
 # command to run in the background on startup
